@@ -1,0 +1,91 @@
+body {
+    background-color: lightslategrey;
+  }
+  #head {
+    text-align: center;
+    color: rgb(223, 46, 15);
+  }
+  
+  p {
+    color: white;
+  }
+  
+  h3 {
+    text-align: center;
+    color: white;
+  }
+  
+  h4 {
+    color: white;
+  }
+  
+  #one {
+    padding-top: 5px;
+    background-color: darkorange;
+    
+  }
+  
+  #two {
+    padding: 7px;
+    background-color: deepskyblue;
+   
+  }
+  
+  #three {
+    display: grid;
+    grid-template-columns: 100% 50%;
+    background-color: tomato;
+    padding-top: 5px;
+  }
+  #second {
+    margin-top: 5px;
+    background-color: tomato;
+  }
+  
+  #iccon {
+    margin-top: 2px;
+    padding-top: 5px;
+    background-color: tomato;
+  }
+  #four {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-top: 5px;
+    background-color: deepskyblue;
+    padding: 5px;
+   
+  }
+  
+  #five {
+    background-color: deepskyblue;
+    margin-top: 7px;
+   
+  }
+  
+  #six {
+    background-color: tomato;
+    margin-left: 12px;
+    margin-top: 5px;
+  }
+  
+  #seven {
+    background-color: darkorange;
+    margin-top: 4px;
+    margin-right: 12px;
+  }
+  
+  #eight {
+    margin-top: 5px;
+    background-color: rgb(13, 132, 172);
+  }
+  
+  #nine {
+    margin-top: 5px;
+    background-color: rgb(52, 168, 207);
+    height: 105px;
+  }
+  
+  #tv {
+    padding: 15px;
+    height: 105px;
+  }
